@@ -43,6 +43,7 @@
   <ItemGroup>
     <Reference Include="Sitecore.Commerce.Connect.Core">
       <HintPath>..\..\lib\Sitecore.Commerce.Connect.Core.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.Kernel">
       <HintPath>..\packages\SC.Sitecore.Kernel.9.0.1\lib\Sitecore.Kernel.dll</HintPath>
